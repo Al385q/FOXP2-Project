@@ -9,4 +9,7 @@ combine all the files into one file.
 
 <img width="576" alt="Screenshot 2023-11-08 at 10 36 32 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/a5028a41-9561-4c83-b7d4-d67e0d3b87c8">
 
+submit a script to align the all the sequences in your file.
+
+<img width="589" alt="Screenshot 2023-11-09 at 1 29 51 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/52ea1eaf-8670-419f-bf1a-31c391b83fb4">
 
