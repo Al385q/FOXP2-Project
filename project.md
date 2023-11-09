@@ -3,9 +3,10 @@ First we create a conda envirmonet and if the enviroment already exist we activa
 Obatain the .fasta data set by from a reliable source.
 I use the nano command to create files and copied my data from NCBI.
 Use the awk command to get rid of the unnecessary stuff in the header of eachfile.
-<img width="578" alt="Screenshot 2023-11-08 at 10 34 28 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/59f1d2ba-c316-4eeb-b4ee-1fa4d8cb7d15">
+<img width="564" alt="Screenshot 2023-11-09 at 1 00 14 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/413f121c-d099-4d81-9378-4e7d9c4502c5">
 
 combine all the files into one file.
 
 <img width="576" alt="Screenshot 2023-11-08 at 10 36 32 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/a5028a41-9561-4c83-b7d4-d67e0d3b87c8">
+
 
