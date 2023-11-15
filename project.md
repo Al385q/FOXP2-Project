@@ -13,3 +13,8 @@ submit a script to align the all the sequences in your file.
 
 <img width="589" alt="Screenshot 2023-11-09 at 1 29 51 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/52ea1eaf-8670-419f-bf1a-31c391b83fb4">
 
+Then we will submit a script to run iq tree on our output file from the last script 
+
+<img width="574" alt="Screenshot 2023-11-15 at 1 05 28 AM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/79f2644a-60e9-4b80-b916-57130d4a22f8">
+
+
