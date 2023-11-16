@@ -17,4 +17,19 @@ Then we will submit a script to run iq tree on our output file from the last scr
 
 <img width="574" alt="Screenshot 2023-11-15 at 1 05 28 AM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/79f2644a-60e9-4b80-b916-57130d4a22f8">
 
+Use the cat command to print the file with contree at the end of it and then copy the results.
+
+<img width="571" alt="Screenshot 2023-11-16 at 12 09 57 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/c3f7564d-a2c3-4968-a719-84c00af0a97e">
+
+Paste the contree text into the "" after ssh_tree in R studio
+
+<img width="1047" alt="Screenshot 2023-11-16 at 12 28 11 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/100d4332-76be-4567-900f-c279528bc4fd">
+
+Then you will see the graph in R studio
+
+![Uploading Screenshot 2023-11-16 at 1.53.37 PM.png…]()
+
+
+
+
 
