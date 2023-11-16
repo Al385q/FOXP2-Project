@@ -27,7 +27,8 @@ Paste the contree text into the "" after ssh_tree in R studio
 
 Then you will see the graph in R studio
 
-<img width="1083" alt="Screenshot 2023-11-16 at 1 53 37 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/c57f9818-a1ef-4f64-8007-c192702eb9a2">
+<img width="1026" alt="Screenshot 2023-11-16 at 2 19 35 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/c96ef3cb-d203-4e41-9503-5cfccfb48a86">
+
 
 
 
