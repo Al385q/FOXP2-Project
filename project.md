@@ -6,7 +6,9 @@ I use the nano command to create files and copied my data from NCBI.
 
 Use the awk command to get rid of the unnecessary stuff in the header of eachfile.
 
+
 <img width="564" alt="Screenshot 2023-11-09 at 1 00 14 PM" src="https://github.com/Al385q/FOXP2-Project/assets/147442178/413f121c-d099-4d81-9378-4e7d9c4502c5">
+
 
 combine all the files into one file.
 
